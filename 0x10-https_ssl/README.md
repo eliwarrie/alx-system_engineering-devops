@@ -9,6 +9,7 @@ Web stack debugging
 
 Background Context
 What happens when you don’t secure your website traffic?
+
 ![background context](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/xCmOCgw.gif?dl=0)
 
 Resources
@@ -19,6 +20,7 @@ What are the 2 main elements that SSL is providing
 HAProxy SSL termination on Ubuntu16.04
 SSL termination
 Bash function
+
 https://intranet.alxswe.com/projects/276#quiz-completed:~:text=Resources,Bash%20function
 
 Learning Objectives
